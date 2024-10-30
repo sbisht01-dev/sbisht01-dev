@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently developing an HRMS<br>I'm looking to collaborate in projects involving Reactjs as I'm learning it.<br>
+I'm a dedicated ReactJS developer currently building an HRMS with a Firebase backend. I'm passionate about learning and always seeking new projects to enhance my React skills. I enjoy reading books and exploring the latest tech trends.<br>
 
 
 ## 🌐 Socials:
